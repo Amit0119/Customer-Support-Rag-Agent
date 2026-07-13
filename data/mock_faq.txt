@@ -1,0 +1,24 @@
+Document: GigaCorp Customer Support Knowledge Base
+Last Updated: October 2023
+
+[SECTION 1: SHIPPING POLICIES]
+1.1 Global Shipping: GigaCorp ships globally, including to India, the UK, and Australia. 
+1.2 Shipping Costs: Standard shipping within the US is $5. International standard shipping is $15. Expedited international shipping is $35.
+1.3 Delivery Times: Standard US delivery takes 3-5 business days. International standard delivery takes 10-15 business days. Expedited shipping takes 2-4 business days worldwide.
+
+[SECTION 2: RETURN PROCESSES]
+2.1 Return Window: Customers can return physical products within 30 days of the delivery date for a full refund.
+2.2 Return Condition: Products must be in their original packaging and show no signs of physical damage.
+2.3 Initiation: To start a return, navigate to the "Orders" tab in your account dashboard and click "Request Return", or email support@gigacorp.com.
+2.4 Restocking Fee: A 10% restocking fee applies to all opened electronics.
+
+[SECTION 3: BUSINESS HOURS & CONTACT]
+3.1 Operating Hours: Our customer support agents are available Monday to Friday, from 8:00 AM to 8:00 PM EST.
+3.2 Weekend Support: Weekend support is only available for Pro and Enterprise tier customers.
+3.3 Contact Methods: We offer phone support at 1-800-GIGACORP and live chat via our website.
+
+[SECTION 4: SERVICE TIERS]
+4.1 Basic Tier: Costs $10/month. Includes email support and standard access to the GigaCorp platform.
+4.2 Pro Tier: Costs $30/month. Includes priority email support, 24/7 weekend chat support, and advanced analytics.
+4.3 Enterprise Tier: Custom pricing. Includes a dedicated account manager, phone support, and custom API limits.
+.

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+langchain==0.1.13
+langchain-groq==0.1.2
+langchain-community==0.0.29
+fastembed==0.2.6
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+tiktoken==0.6.0
