@@ -150,4 +150,13 @@ document.addEventListener('DOMContentLoaded', () => {
             sendMessage();
         }
     });
+
+    // Suggestion Chips
+    const chips = document.querySelectorAll('.suggestion-chip');
+    chips.forEach(chip => {
+        chip.addEventListener('click', () => {
+            userInput.value = chip.textContent;
+            sendMessage();
+        });
+    });
 });

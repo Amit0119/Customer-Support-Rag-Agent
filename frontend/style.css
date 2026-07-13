@@ -287,6 +287,38 @@ h1 {
     40% { transform: scale(1); }
 }
 
+/* Suggestions */
+.suggestions {
+    display: flex;
+    gap: 10px;
+    padding: 0 24px 12px 24px;
+    overflow-x: auto;
+    scrollbar-width: none;
+}
+
+.suggestions::-webkit-scrollbar {
+    display: none;
+}
+
+.suggestion-chip {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid var(--glass-border);
+    color: var(--text-muted);
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+}
+
+.suggestion-chip:hover {
+    background: var(--accent);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px var(--accent-glow);
+}
+
 /* Input Area */
 .input-area {
     padding: 24px;
